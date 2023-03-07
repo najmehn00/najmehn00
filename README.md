@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @najmehn00
 - 👀 I’m interested in machine learning , Internet of thing, Data science ,.....
 - 🌱 I’m currently learning python and Im master student in Bahonar UNI of Iran.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML project
+in this repository i import projects that i did in university
 - 📫 How to reach me email:najmehnazari77@gmail.com
 
 <!---
